@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mateusz Suchomski!
+# 👋 Hi there, I'm Mateusz!
 
 🎓 Junior Web Developer & IT Support Specialist  
 🌍 Graduate of EU-funded internship in Malta – Europass Certified  
